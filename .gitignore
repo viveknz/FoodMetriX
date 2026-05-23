@@ -4,3 +4,6 @@ secretes.toml.streamlit/secrets.toml
 content_cache/
 __pycache__/
 *.pyc
+# Local Application Runtime Diagnostics Logs
+logs/
+*.log
